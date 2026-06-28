@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aca7e13-07ac-423b-a89e-9c6b81e11b2f" name="Changes" comment="java codes (DSA)">
-      <change afterPath="$PROJECT_DIR$/src/DSA_qs/fn_overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_qs/prime_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_qs/scoope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_qs/shadowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_qs/varArgs.java" afterDir="false" />
+    <list default="true" id="8aca7e13-07ac-423b-a89e-9c6b81e11b2f" name="Changes" comment="functions">
+      <change afterPath="$PROJECT_DIR$/src/armstrong_num.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.armstrong_num.executor": "Run",
     "Application.fibonnaci.executor": "Run",
     "Application.fn_overloading.executor": "Run",
     "Application.function1.executor": "Run",
@@ -107,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782496948628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="functions">
+      <option name="closed" value="true" />
+      <created>1782658520350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782658520350</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java codes (DSA)" />
-    <option name="LAST_COMMIT_MESSAGE" value="java codes (DSA)" />
+    <MESSAGE value="functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions" />
   </component>
 </project>
