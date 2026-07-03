@@ -1,6 +1,9 @@
 package DSA_qs;
 import java.util.Arrays;
 import java.util.Scanner;
+
+//Time Complexity: O(n)
+
 public class linearSearch {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
