@@ -1,5 +1,5 @@
 package DSA_qs.oops;
-
+//inheritance
 public class BoxWeight extends Box{
     double weight;
 

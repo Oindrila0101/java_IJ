@@ -1,5 +1,5 @@
 package DSA_qs.oops;
-
+//inheritance
 public class MainBox {
     public static void main(String[] args) {
         Box box=new Box(2,1,3);
