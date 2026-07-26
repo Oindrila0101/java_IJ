@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aca7e13-07ac-423b-a89e-9c6b81e11b2f" name="Changes" comment="functions">
-      <change afterPath="$PROJECT_DIR$/src/armstrong_num.java" afterDir="false" />
+    <list default="true" id="8aca7e13-07ac-423b-a89e-9c6b81e11b2f" name="Changes" comment="static">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_qs/oops/BoxColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,21 +48,49 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Innerclass.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainBox.executor": "Run",
+    "Application.Staticblock.executor": "Run",
+    "Application.TwoDarray.executor": "Run",
     "Application.armstrong_num.executor": "Run",
+    "Application.array.executor": "Run",
+    "Application.arrayList.executor": "Run",
+    "Application.arrayReverse.executor": "Run",
+    "Application.arraySwap.executor": "Run",
+    "Application.arraySwap2.executor": "Run",
+    "Application.array_fn.executor": "Run",
+    "Application.arraymaxval.executor": "Run",
+    "Application.binarySearch.executor": "Run",
     "Application.fibonnaci.executor": "Run",
     "Application.fn_overloading.executor": "Run",
     "Application.function1.executor": "Run",
     "Application.function2.executor": "Run",
     "Application.largest_number.executor": "Run",
+    "Application.linearSearch.executor": "Run",
+    "Application.minInArray.executor": "Run",
+    "Application.multiArrylist.executor": "Run",
+    "Application.orderAgnosticBinarySearch.executor": "Run",
+    "Application.pattern1.executor": "Run",
+    "Application.pattern2.executor": "Run",
+    "Application.pattern3.executor": "Run",
+    "Application.pattern4.executor": "Run",
+    "Application.pattern6.executor": "Run",
+    "Application.pattern7.executor": "Run",
+    "Application.pattern8.executor": "Run",
     "Application.prime_num.executor": "Run",
     "Application.return_string_fn.executor": "Run",
     "Application.return_value_fn.executor": "Run",
     "Application.reverse.executor": "Run",
+    "Application.searchin2Darray.executor": "Run",
+    "Application.searchinRange.executor": "Run",
+    "Application.searchinString.executor": "Run",
     "Application.shadowing.executor": "Run",
     "Application.string_function.executor": "Run",
     "Application.swap_fn.executor": "Run",
     "Application.varArgs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -112,7 +141,103 @@
       <option name="project" value="LOCAL" />
       <updated>1782658520350</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="functions">
+      <option name="closed" value="true" />
+      <created>1782669082576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782669082576</updated>
+    </task>
+    <task id="LOCAL-00004" summary="functions">
+      <option name="closed" value="true" />
+      <created>1782713710657</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782713710657</updated>
+    </task>
+    <task id="LOCAL-00005" summary="arrays">
+      <option name="closed" value="true" />
+      <created>1782927266310</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782927266310</updated>
+    </task>
+    <task id="LOCAL-00006" summary="linear search">
+      <option name="closed" value="true" />
+      <created>1783004253649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783004253649</updated>
+    </task>
+    <task id="LOCAL-00007" summary="linear search">
+      <option name="closed" value="true" />
+      <created>1783016739738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783016739738</updated>
+    </task>
+    <task id="LOCAL-00008" summary="binary search">
+      <option name="closed" value="true" />
+      <created>1783089817544</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783089817544</updated>
+    </task>
+    <task id="LOCAL-00009" summary="order agnostic binary search">
+      <option name="closed" value="true" />
+      <created>1783092684953</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783092684953</updated>
+    </task>
+    <task id="LOCAL-00010" summary="patterns">
+      <option name="closed" value="true" />
+      <created>1783957940206</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783957940206</updated>
+    </task>
+    <task id="LOCAL-00011" summary="patterns">
+      <option name="closed" value="true" />
+      <created>1783959327705</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783959327705</updated>
+    </task>
+    <task id="LOCAL-00012" summary="static">
+      <option name="closed" value="true" />
+      <created>1784737814679</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1784737814679</updated>
+    </task>
+    <task id="LOCAL-00013" summary="static">
+      <option name="closed" value="true" />
+      <created>1785080287354</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1785080287354</updated>
+    </task>
+    <task id="LOCAL-00014" summary="static">
+      <option name="closed" value="true" />
+      <created>1785081466101</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1785081466101</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +254,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java codes (DSA)" />
     <MESSAGE value="functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions" />
+    <MESSAGE value="arrays" />
+    <MESSAGE value="linear search" />
+    <MESSAGE value="binary search" />
+    <MESSAGE value="order agnostic binary search" />
+    <MESSAGE value="patterns" />
+    <MESSAGE value="static" />
+    <option name="LAST_COMMIT_MESSAGE" value="static" />
   </component>
 </project>
